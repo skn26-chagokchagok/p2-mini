@@ -7,7 +7,7 @@
 ## 1. 📝 프로젝트 개요
 * **목적**: 올림픽 개최국의 성적 향상 유무와 지속성, 종목별 편차, 경제적 수준(GDP)에 따른 시너지 분석
 * **기간**: 2026.02.23 - 2026.02.24
-* **데이터**: 120년간의 올림픽 선수 및 메달 획득 데이터 (`athlete_events.csv`), 1960년부터 국가별/연도별 GDP 데이터 (`world_gdp.csv`), 국가별 인구 데이터 (`world_population.csv`)
+* **데이터**: 120년(Athens 1896 ~ Rio 2016)간의 올림픽 선수 및 메달 획득 데이터 (`athlete_events.csv`), 1960년부터 국가별/연도별 GDP 데이터 (`world_gdp.csv`), 1960년부터 국가별 인구 데이터 (`world_population.csv`)
 * **사용 기술**: Python, Pandas, Matplotlib, Seaborn
 
 ---
