@@ -44,7 +44,7 @@
 #### Q2. 개최국 효과는 대회 당해에만 국한되는 단기적인 현상인가?
 ![medal_count_time_variant](medal_count_time_variant.png)
 ![medal_count_time_variant_by_season](medal_count_time_variant_by_season.png)
-- 결과: 개최 8년 전(유치 결정 시점)부터 국가적 투자가 시작되며 성적이 상승하는 '빌드업(Build-up)' 현상이 관찰되었습니다. 대회 종료 후 성적은 다소 하락하지만, 개최 이전과 비교했을 때 전체적인 스포츠 경쟁력(체급)이 상향 평준화된 상태를 유지했습니다.
+- 결과: 개최 8년 전(유치 확정 시점)부터 국가적 투자가 시작되지만, 8년 전에서 4년 전 사이에는 오히려 메달 수가 일시적으로 하락하는 정체 구간이 관찰되었습니다. 이후 개최 당해(Year 0)에 이르러 성적이 수직 상승하며 정점을 찍는 'U자형' 곡선을 보입니다.
 
 #### Q3. 판정이 개입되는 종목에서 개최국이 더 유리한가?
 ![medal_count_by_type](medal_count_by_type.png)
