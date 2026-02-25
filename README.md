@@ -51,11 +51,12 @@
 - 결과: 가설과 달리, 심사 종목(Subjective)보다 기록 종목(Objective)에서 개최국의 성적 상승 폭이 더 컸습니다. 이는 개최국 프리미엄이 단순한 판정 이득이 아니라, 메달 비중이 높은 기록 종목에 대한 전략적 자본 투입과 스포츠 과학의 결실임을 시사합니다.
 
 #### Q4. 국가의 경제적 수준(GDP)에 따라 개최국 효과의 양상이 다른가?
-![host_effect_by_GDP](host_effect_by_GDP.png)
+<img width="1146" height="699" alt="image" src="https://github.com/user-attachments/assets/0ec3bda6-74cb-44a7-b88d-6eaecbbbfb64" />
+
 - 결과: 선진국은 자본력을 바탕으로 압도적인 메달 절대량을 확보(평균 50.5개)하며 우위를 증명하는 반면, 개발도상국은 개최 시 성적이 357% 급증하는 극적인 레버리지 효과를 보였습니다. 경제력은 성적의 안정적인 하한선을 제공하고, 개최 여부는 성적의 폭발적인 상한선을 결정합니다.
 
 Q5. 개최국 시 개최국 특혜로 인해 선수단 규모가 증가하는데, 메달의 총량 증가는 선수단 규모의 확장에 의한 것인가?
-<img width="1150" height="711" alt="image" src="https://github.com/user-attachments/assets/b3158b0d-d986-405e-b2f6-9a58efa6f21a" />
+<img width="1153" height="720" alt="image" src="https://github.com/user-attachments/assets/36fe2f6f-9817-4454-b093-608b1456e136" />
 
 - 결과: 선수단 규모와 메달 수 사이에 강력한 양의 상관관계가 있음을 알 수 있습니다. 그러나 일정 규모이상으로 선수의 수가 증가할 때는 단순한 숫자보다 다른 질적 요소가 성패를 가릅니다.
 
